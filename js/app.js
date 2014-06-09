@@ -1,0 +1,1 @@
+conferenceApp = angular.module('conferenceApp', []);
